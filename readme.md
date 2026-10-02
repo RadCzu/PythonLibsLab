@@ -30,7 +30,7 @@ Cel: Wyjaśnij prowadzącemu co dokładnie robi ta funkcja i jaki jest jej rzecz
 ### Zadanie 2: Uniwersalny Plotter Funkcji Matematycznych
 Napisz program, który wygeneruje i wyświetli wykres dla dowolnej przekazanej mu funkcji matematycznej $y = f(x)$ w zadanym przedziale.
 
-📖 Dokumentacja biblioteki Matplotlib: $matplotlib.org/stable/contents.html$
+📖 Dokumentacja biblioteki Matplotlib: matplotlib.org/stable/contents.html
 
 Wymagania:Zaimportuj moduł matplotlib.pyplot as plt.
 Stwórz główną funkcja rysującą o nazwie generuj_wykres.
