@@ -32,7 +32,7 @@ Napisz program, który wygeneruje i wyświetli wykres dla dowolnej przekazanej m
 
 📖 Dokumentacja biblioteki Matplotlib: matplotlib.org/stable/contents.html
 
-Wymagania:Zaimportuj moduł matplotlib.pyplot as plt.
+Wymagania: Zaimportuj moduł matplotlib.pyplot as plt.
 Stwórz główną funkcję rysującą o nazwie generuj_wykres.
 Parametry wejściowe funkcji:
 - f_x – przekazywana funkcja matematyczna (np. zadeklarowana wcześniej za pomocą def lub lambda)
