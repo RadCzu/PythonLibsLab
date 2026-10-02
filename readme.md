@@ -21,7 +21,7 @@ Oba zapisy robią dokładnie to samo: przyjmują x i zwracają x do kwadratu
 
 ### Zadanie 1: Inżynieria Wsteczna (Debugowanie)
 W folderze znajduje się plik something.py.
-aimportuj funkcję z tego pliku do swojego głównego programu.
+zaimportuj funkcję z tego pliku do swojego głównego programu.
 Przetestuj jej działanie dla kilku różnych podanych wartości za pomocą printów i logicznego myślenia.
 Przeanalizuj kod w pliku something.py (zignoruj złośliwe nazwy zmiennych i komentarze!).
 
@@ -33,7 +33,7 @@ Napisz program, który wygeneruje i wyświetli wykres dla dowolnej przekazanej m
 📖 Dokumentacja biblioteki Matplotlib: matplotlib.org/stable/contents.html
 
 Wymagania:Zaimportuj moduł matplotlib.pyplot as plt.
-Stwórz główną funkcja rysującą o nazwie generuj_wykres.
+Stwórz główną funkcję rysującą o nazwie generuj_wykres.
 Parametry wejściowe funkcji:
 - f_x – przekazywana funkcja matematyczna (np. zadeklarowana wcześniej za pomocą def lub lambda)
 - x_start – początek przedziału osi X
