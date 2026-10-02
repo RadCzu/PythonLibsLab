@@ -35,10 +35,10 @@ Napisz program, który wygeneruje i wyświetli wykres dla dowolnej przekazanej m
 Wymagania:Zaimportuj moduł matplotlib.pyplot as plt.
 Stwórz główną funkcja rysującą o nazwie generuj_wykres.
 Parametry wejściowe funkcji:
-$f_x$ – przekazywana funkcja matematyczna (np. zadeklarowana wcześniej za pomocą def lub lambda)
-$x_start$ – początek przedziału osi X
-$x_end$ – koniec przedziału osi X
-$step$ – krok (odległość między punktami na wykresie)
+f_x – przekazywana funkcja matematyczna (np. zadeklarowana wcześniej za pomocą def lub lambda)
+x_start – początek przedziału osi X
+x_end – koniec przedziału osi X
+step – krok (odległość między punktami na wykresie)
 
 Program ma obliczyć wartości $y$ dla każdego $x$ z podanego zakresu, wygenerować estetyczny wykres i wyświetlić go na ekranie.
 
